@@ -8,7 +8,7 @@ Aqui estão os links e evidências de cada um dos 5 pontos, conforme solicitado.
 
 | Item | Entregável | Evidência/Link | Status |
 | :---: | :--- | :--- | :---: |
-| 1 | Participação em Processo Seletivo | [Link para o arquivo Processo_Seletivo.pdf](./Processo_Seletivo.pdf) | ✅ |
+| 1 | Participação em Processo Seletivo | [https://github.com/macedo25/DesignProfissional_A1/blob/main/candidatura.jpg.jpeg) | ✅ |
 | 2 | Currículo Lattes ou em LaTeX | [Link para o Currículo Lattes]([INSIRA O LINK DO SEU CURRÍCULO LATTES AQUI]) ou [Curriculo_Latex.pdf](./Curriculo_Latex.pdf) | ✅ |
 | 3 | Portfólio no GitHub | [Link para a Pasta Portfólio](./Portfólio/) | ✅ |
 | 4 | Repositórios 1º Semestre | [Link para a Pasta Repositorios_1Semestre](./Repositorios_1Semestre/) | ✅ |
